@@ -14,7 +14,7 @@ function App() {
             .then(res => res.json())
             .then(data => {
                 const videoArray = Object.keys(data).map(title => ({
-                    title: title,
+                    title,
                     keywords: data[title].keywords,
                     videoUrl: data[title].videoUrl,
                     thumbnail: data[title].thumbnail
@@ -36,34 +36,32 @@ function App() {
     })
 
     return (
-        <div className="container text-center mt-4">
-            <h1>Introduction to Machine Learning</h1>
-            <div className="row justify-content-center mt-4">
-                <div className="col-md-6">
-                    <input
-                        type="text"
-                        placeholder="Search videos..."
-                        value={searchTerm}
-                        onChange={handleSearchChange}
-                        className="form-control"
-                    />
-                </div>
-            </div>
-            <div className="row mt-5 gx-4 gy-4 justify-content-center">
-                {filteredVideos.map(video => (
-                    <div className="col-sm-6 col-md-4 col-lg-3 d-flex" key={video.title}>
-                        <VideoCard
-                            video={video}
-                            onClick={() => setSelectedVideo(video)}
-                        />
-                    </div>
-                ))}
-            </div>
-            {selectedVideo && (
-                <VideoModal
-                    video={selectedVideo}
-                    onClose={() => setSelectedVideo(null)}
+        <div className="app-wrapper">
+            <div className="header-wrapper text-center">
+                <h1 className="mb-4">Introduction to Machine Learning</h1>
+                <input
+                    type="text"
+                    className="form-control search-input"
+                    placeholder="Search videos..."
+                    value={searchTerm}
+                    onChange={handleSearchChange}
                 />
+            </div>
+
+            {filteredVideos.length === 0 ? (
+                <p className="text-center text-muted">No videos match your search.</p>
+            ) : (
+                <div className="video-grid-wrapper">
+                    {filteredVideos.map(video => (
+                        <div key={video.title} className="video-grid-card">
+                            <VideoCard video={video} onClick={() => setSelectedVideo(video)} />
+                        </div>
+                    ))}
+                </div>
+            )}
+
+            {selectedVideo && (
+                <VideoModal video={selectedVideo} onClose={() => setSelectedVideo(null)} />
             )}
         </div>
     )
