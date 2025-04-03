@@ -1,227 +1,19 @@
 {
-  "Mod03_Sect04_part3": {
+  "Mod01_Course Overview": {
     "keywords": [
-      "know varied outlier",
-      "varied outlier box",
-      "approach dealing outlier",
-      "data based outlier",
-      "approach outlier",
-      "approach outlier caused",
-      "dealing outlier",
-      "good approach outlier",
-      "varied outlier",
-      "multiple varied outlier"
-    ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod03_Sect04_part3.mp4",
-    "thumbnail": "thumbnails/Mod03_Sect04_part3.jpg"
-  },
-  "Mod07_Sect01": {
-    "keywords": [
-      "certified machine learning",
-      "youll receive certification",
-      "certification help",
-      "certification help build",
-      "certification certification help",
-      "receive certification",
-      "prepare certification",
-      "covered certification exam",
-      "prepare certification exam",
-      "certification exam"
-    ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod07_Sect01.mp4",
-    "thumbnail": "thumbnails/Mod07_Sect01.jpg"
-  },
-  "Mod05_Intro": {
-    "keywords": [
-      "computer vision module",
-      "computer vision amazon",
-      "object detection amazon",
-      "vision module",
+      "include machine learning",
+      "learn using machine",
       "machine learning module",
-      "vision module start",
-      "learning module",
-      "object detection end",
-      "learning module great",
-      "dataset object detection"
+      "amazon machine learning",
+      "machine learning section",
+      "learning pipeline using",
+      "learning pipeline amazon",
+      "learning pipeline includes",
+      "learning foundation module",
+      "learning tool"
     ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod05_Intro.mp4",
-    "thumbnail": "thumbnails/Mod05_Intro.jpg"
-  },
-  "Mod03_Sect01": {
-    "keywords": [
-      "machine learning pipeline",
-      "business requirement machine",
-      "requirement machine learning",
-      "appropriate machine learning",
-      "learning pipeline",
-      "use machine learning",
-      "turning business requirement",
-      "business need section",
-      "learning pipeline looked",
-      "business problem need"
-    ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod03_Sect01.mp4",
-    "thumbnail": "thumbnails/Mod03_Sect01.jpg"
-  },
-  "Mod03_WrapUp": {
-    "keywords": [
-      "knowledge check module",
-      "using amazon sage",
-      "use amazon sage",
-      "amazon sage maker",
-      "time review module",
-      "create amazon sage",
-      "sage maker hyper",
-      "wrap knowledge check",
-      "check module learn",
-      "sage maker"
-    ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod03_WrapUp.mp4",
-    "thumbnail": "thumbnails/Mod03_WrapUp.jpg"
-  },
-  "Mod03_Sect04_part1": {
-    "keywords": [
-      "feature engineering feature",
-      "feature engineering",
-      "look feature engineering",
-      "feature extraction build",
-      "engineering feature engineering",
-      "data handling needed",
-      "idea data handling",
-      "data categorical",
-      "yield new dataset",
-      "feature use"
-    ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod03_Sect04_part1.mp4",
-    "thumbnail": "thumbnails/Mod03_Sect04_part1.jpg"
-  },
-  "Mod04_Sect02_part1": {
-    "keywords": [
-      "data help deal",
-      "work multiple data",
-      "data help decide",
-      "time series data",
-      "situation demand forecasting",
-      "example sale data",
-      "make prediction retail",
-      "retail dataset want",
-      "data work multiple",
-      "method dealing data"
-    ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod04_Sect02_part1.mp4",
-    "thumbnail": "thumbnails/Mod04_Sect02_part1.jpg"
-  },
-  "Mod03_Sect03_part2": {
-    "keywords": [
-      "descriptive statistic data",
-      "statistic data better",
-      "insight data effectively",
-      "data important example",
-      "statistic type descriptive",
-      "descriptive statistic specifically",
-      "important descriptive statistic",
-      "dataset information idea",
-      "attribute statistic type",
-      "perform descriptive statistic"
-    ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod03_Sect03_part2.mp4",
-    "thumbnail": "thumbnails/Mod03_Sect03_part2.jpg"
-  },
-  "Mod04_Sect01": {
-    "keywords": [
-      "forecasting marketing application",
-      "forecasting use",
-      "forecasting use forecasting",
-      "forecasting important area",
-      "use forecasting",
-      "forecasting use case",
-      "use forecasting marketing",
-      "pattern forecasting use",
-      "forecasting important",
-      "forecasting used"
-    ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod04_Sect01.mp4",
-    "thumbnail": "thumbnails/Mod04_Sect01.jpg"
-  },
-  "Mod05_Sect03_part3": {
-    "keywords": [
-      "training dataset",
-      "training test datasets",
-      "information training dataset",
-      "model train dataset",
-      "training dataset create",
-      "data used training",
-      "train dataset",
-      "train training complete",
-      "training dataset datasets",
-      "training complete evaluate"
-    ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod05_Sect03_part3.mp4",
-    "thumbnail": "thumbnails/Mod05_Sect03_part3.jpg"
-  },
-  "Mod03_Sect06": {
-    "keywords": [
-      "deployment overhead sage",
-      "model deploy thats",
-      "prediction deploy model",
-      "instance deploy model",
-      "model deploy",
-      "model deployed production",
-      "sage maker deploy",
-      "deployed model need",
-      "deploy model amazon",
-      "ready deploy model"
-    ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod03_Sect06.mp4",
-    "thumbnail": "thumbnails/Mod03_Sect06.jpg"
-  },
-  "Mod02_Sect02": {
-    "keywords": [
-      "fraud machine learning",
-      "example supervised",
-      "classification think example",
-      "normal transaction supervised",
-      "example supervised learning",
-      "train example transaction",
-      "look type supervised",
-      "type supervised",
-      "type supervised learning",
-      "transaction supervised"
-    ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod02_Sect02.mp4",
-    "thumbnail": "thumbnails/Mod02_Sect02.jpg"
-  },
-  "Mod03_Sect07_part3": {
-    "keywords": [
-      "evaluate model classification",
-      "classification model going",
-      "model classification",
-      "model classification model",
-      "confusion major threshold",
-      "determine threshold use",
-      "classification model",
-      "classification metric determine",
-      "classification model identifies",
-      "model high sensitivity"
-    ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod03_Sect07_part3.mp4",
-    "thumbnail": "thumbnails/Mod03_Sect07_part3.jpg"
-  },
-  "Mod05_Sect02_part1_ver2": {
-    "keywords": [
-      "service amazon recognition",
-      "application amazon recognition",
-      "video amazon recognition",
-      "recognition sdk amazon",
-      "amazon recognition integrates",
-      "data amazon recognition",
-      "amazon recognition sdk",
-      "amazon recognition process",
-      "amazon recognition build",
-      "amazon recognition managed"
-    ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod05_Sect02_part1_ver2.mp4",
-    "thumbnail": "thumbnails/Mod05_Sect02_part1_ver2.jpg"
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod01_Course%20Overview.mp4",
+    "thumbnail": "thumbnails/Mod01_Course Overview.jpg"
   },
   "Mod02_Intro": {
     "keywords": [
@@ -239,70 +31,6 @@
     "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod02_Intro.mp4",
     "thumbnail": "thumbnails/Mod02_Intro.jpg"
   },
-  "Mod03_Sect08": {
-    "keywords": [
-      "hyper parameter tuning",
-      "data tuning hyper",
-      "process training tuning",
-      "training tuning",
-      "guideline create hyper",
-      "training tuning machine",
-      "perform automated hyper",
-      "tuning hyper",
-      "way tuning hyper",
-      "parameter tuning job"
-    ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod03_Sect08.mp4",
-    "thumbnail": "thumbnails/Mod03_Sect08.jpg"
-  },
-  "Mod04_WrapUp": {
-    "keywords": [
-      "solved amazon forecast",
-      "amazon forecast challenge",
-      "amazon forecast make",
-      "forecast challenge working",
-      "using amazon forecast",
-      "use amazon forecast",
-      "create forecast using",
-      "required create forecast",
-      "forecast using amazon",
-      "forecast challenge"
-    ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod04_WrapUp.mp4",
-    "thumbnail": "thumbnails/Mod04_WrapUp.jpg"
-  },
-  "Mod01_Course Overview": {
-    "keywords": [
-      "include machine learning",
-      "learn using machine",
-      "machine learning module",
-      "amazon machine learning",
-      "machine learning section",
-      "learning pipeline using",
-      "learning pipeline amazon",
-      "learning pipeline includes",
-      "learning foundation module",
-      "learning tool"
-    ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod01_Course%20Overview.mp4",
-    "thumbnail": "thumbnails/Mod01_Course Overview.jpg"
-  },
-  "Mod03_Sect04_part2": {
-    "keywords": [
-      "datasets missing data",
-      "dataset missing data",
-      "missing data decide",
-      "dataset missing value",
-      "data variable datasets",
-      "missing value data",
-      "missing data data",
-      "data missing value",
-      "variable datasets",
-      "finding missing data"
-    ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod03_Sect04_part2.mp4",
-    "thumbnail": "thumbnails/Mod03_Sect04_part2.jpg"
-  },
   "Mod02_Sect01": {
     "keywords": [
       "artificial intelligence focus",
@@ -318,6 +46,70 @@
     ],
     "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod02_Sect01.mp4",
     "thumbnail": "thumbnails/Mod02_Sect01.jpg"
+  },
+  "Mod02_Sect02": {
+    "keywords": [
+      "fraud machine learning",
+      "example supervised",
+      "classification think example",
+      "normal transaction supervised",
+      "example supervised learning",
+      "train example transaction",
+      "look type supervised",
+      "type supervised",
+      "type supervised learning",
+      "transaction supervised"
+    ],
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod02_Sect02.mp4",
+    "thumbnail": "thumbnails/Mod02_Sect02.jpg"
+  },
+  "Mod02_Sect03": {
+    "keywords": [
+      "course example data",
+      "data train youll",
+      "machine learning pipeline",
+      "training data looking",
+      "performs training data",
+      "training data",
+      "use data train",
+      "problem data preparation",
+      "feature example data",
+      "learning pipeline process"
+    ],
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod02_Sect03.mp4",
+    "thumbnail": "thumbnails/Mod02_Sect03.jpg"
+  },
+  "Mod02_Sect04": {
+    "keywords": [
+      "tool exploring machine",
+      "provides various tool",
+      "data visualization machine",
+      "tool exploring",
+      "learning jupiter lab",
+      "exploring machine",
+      "good tool exploring",
+      "panda open source",
+      "visualization machine",
+      "data visualization library"
+    ],
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod02_Sect04.mp4",
+    "thumbnail": "thumbnails/Mod02_Sect04.jpg"
+  },
+  "Mod02_Sect05": {
+    "keywords": [
+      "machine learning business",
+      "service machine learning",
+      "machine learning add",
+      "challenge machine learning",
+      "solve machine learning",
+      "machine learning capability",
+      "learning challenge biggest",
+      "machine learning challenge",
+      "machine learning lot",
+      "using machine learning"
+    ],
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod02_Sect05.mp4",
+    "thumbnail": "thumbnails/Mod02_Sect05.jpg"
   },
   "Mod02_WrapUp": {
     "keywords": [
@@ -335,69 +127,37 @@
     "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod02_WrapUp.mp4",
     "thumbnail": "thumbnails/Mod02_WrapUp.jpg"
   },
-  "Mod03_Sect07_part2": {
+  "Mod03_Intro": {
     "keywords": [
-      "cat model choose",
-      "identified cat model",
-      "cat model work",
-      "cat metric model",
-      "cat possible model",
-      "percent cat identified",
-      "cat model",
-      "example percent cat",
-      "positive identification cat",
-      "identified cat calculate"
+      "machine learning module",
+      "machine learning pipeline",
+      "learning pipeline using",
+      "learning pipeline applied",
+      "learning pipeline",
+      "create amazon sage",
+      "using amazon sage",
+      "use amazon sage",
+      "amazon sage maker",
+      "amazon sage"
     ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod03_Sect07_part2.mp4",
-    "thumbnail": "thumbnails/Mod03_Sect07_part2.jpg"
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod03_Intro.mp4",
+    "thumbnail": "thumbnails/Mod03_Intro.jpg"
   },
-  "Mod05_Sect03_part1": {
+  "Mod03_Sect01": {
     "keywords": [
-      "amazon recognition trained",
-      "training image specific",
-      "training image service",
-      "provide training image",
-      "trained amazon recognition",
-      "train amazon recognition",
-      "image trained amazon",
-      "training image",
-      "training similar image",
-      "use classify image"
+      "machine learning pipeline",
+      "business requirement machine",
+      "requirement machine learning",
+      "appropriate machine learning",
+      "learning pipeline",
+      "use machine learning",
+      "turning business requirement",
+      "business need section",
+      "learning pipeline looked",
+      "business problem need"
     ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod05_Sect03_part1.mp4",
-    "thumbnail": "thumbnails/Mod05_Sect03_part1.jpg"
-  },
-  "Mod03_Sect03_part3": {
-    "keywords": [
-      "correlation dataset",
-      "review correlation dataset",
-      "looking chart correlation",
-      "correlation dataset quantify",
-      "correlation matrix good",
-      "correlation use",
-      "chart correlation",
-      "correlation",
-      "plot correlation",
-      "correlation correlation"
-    ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod03_Sect03_part3.mp4",
-    "thumbnail": "thumbnails/Mod03_Sect03_part3.jpg"
-  },
-  "Mod05_Sect03_part2": {
-    "keywords": [
-      "image dataset labeled",
-      "label image train",
-      "train amazon recognition",
-      "label image dataset",
-      "dataset labeled",
-      "information labeled image",
-      "model image labeled",
-      "dataset need labeling",
-      "dataset fully labeled",
-      "image train"
-    ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod05_Sect03_part2.mp4",
-    "thumbnail": "thumbnails/Mod05_Sect03_part2.jpg"
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod03_Sect01.mp4",
+    "thumbnail": "thumbnails/Mod03_Sect01.jpg"
   },
   "Mod03_Sect02_part1": {
     "keywords": [
@@ -431,134 +191,6 @@
     "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod03_Sect02_part2.mp4",
     "thumbnail": "thumbnails/Mod03_Sect02_part2.jpg"
   },
-  "Mod03_Sect07_part1": {
-    "keywords": [
-      "model success predicting",
-      "good outcome model",
-      "problem success metric",
-      "need assess model",
-      "success model metric",
-      "model success",
-      "outcome model similarly",
-      "youve trained model",
-      "outcome model",
-      "success predicting"
-    ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod03_Sect07_part1.mp4",
-    "thumbnail": "thumbnails/Mod03_Sect07_part1.jpg"
-  },
-  "Mod02_Sect04": {
-    "keywords": [
-      "tool exploring machine",
-      "provides various tool",
-      "data visualization machine",
-      "tool exploring",
-      "learning jupiter lab",
-      "exploring machine",
-      "good tool exploring",
-      "panda open source",
-      "visualization machine",
-      "data visualization library"
-    ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod02_Sect04.mp4",
-    "thumbnail": "thumbnails/Mod02_Sect04.jpg"
-  },
-  "Mod06_Sect01": {
-    "keywords": [
-      "speech tagging classify",
-      "natural language processing",
-      "language processing known",
-      "classify phrase using",
-      "language processing",
-      "speech tagging",
-      "natural language talk",
-      "example speech text",
-      "classify phrase",
-      "speech language require"
-    ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod06_Sect01.mp4",
-    "thumbnail": "thumbnails/Mod06_Sect01.jpg"
-  },
-  "Mod05_Sect03_part4_ver2": {
-    "keywords": [
-      "new training image",
-      "retrain model learn",
-      "use training image",
-      "training example detecting",
-      "training example like",
-      "training image",
-      "training image clearly",
-      "dog label training",
-      "model training",
-      "training image model"
-    ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod05_Sect03_part4_ver2.mp4",
-    "thumbnail": "thumbnails/Mod05_Sect03_part4_ver2.jpg"
-  },
-  "Mod04_Sect02_part2": {
-    "keywords": [
-      "series data seasonality",
-      "seasonality auto correlation",
-      "datasets seasonality",
-      "data seasonality data",
-      "data seasonality",
-      "seasonality dataset",
-      "seasonality data",
-      "trend time series",
-      "seasonality data kind",
-      "useful datasets seasonality"
-    ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod04_Sect02_part2.mp4",
-    "thumbnail": "thumbnails/Mod04_Sect02_part2.jpg"
-  },
-  "Mod04_Intro": {
-    "keywords": [
-      "amazon forecast challenge",
-      "forecast end module",
-      "machine learning module",
-      "forecast service help",
-      "amazon forecast service",
-      "forecasting start introduction",
-      "forecast service",
-      "use amazon forecast",
-      "forecast using amazon",
-      "start introduction forecasting"
-    ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod04_Intro.mp4",
-    "thumbnail": "thumbnails/Mod04_Intro.jpg"
-  },
-  "Mod06_Intro": {
-    "keywords": [
-      "language processing module",
-      "natural language",
-      "module academy machine",
-      "processing module introduce",
-      "introduction natural language",
-      "natural language processing",
-      "welcome module academy",
-      "language processing",
-      "introduce natural language",
-      "processing module"
-    ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod06_Intro.mp4",
-    "thumbnail": "thumbnails/Mod06_Intro.jpg"
-  },
-  "Mod05_Sect01_ver2": {
-    "keywords": [
-      "vision machine",
-      "object detection provides",
-      "introduce computer vision",
-      "computer vision machine",
-      "computer vision improve",
-      "image classify",
-      "recognition improve",
-      "vision use image",
-      "include object classification",
-      "vision video data"
-    ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod05_Sect01_ver2.mp4",
-    "thumbnail": "thumbnails/Mod05_Sect01_ver2.jpg"
-  },
   "Mod03_Sect02_part3": {
     "keywords": [
       "security data datasets",
@@ -591,21 +223,85 @@
     "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod03_Sect03_part1.mp4",
     "thumbnail": "thumbnails/Mod03_Sect03_part1.jpg"
   },
-  "Mod06_Sect02": {
+  "Mod03_Sect03_part2": {
     "keywords": [
-      "transcription service application",
-      "add transcription service",
-      "transcription service",
-      "transcribe recognize speech",
-      "amazon transcribe speak",
-      "output speech amazon",
-      "transcribe capture spoken",
-      "amazon transcribe use",
-      "application amazon transcribe",
-      "transcribe use amazon"
+      "descriptive statistic data",
+      "statistic data better",
+      "insight data effectively",
+      "data important example",
+      "statistic type descriptive",
+      "descriptive statistic specifically",
+      "important descriptive statistic",
+      "dataset information idea",
+      "attribute statistic type",
+      "perform descriptive statistic"
     ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod06_Sect02.mp4",
-    "thumbnail": "thumbnails/Mod06_Sect02.jpg"
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod03_Sect03_part2.mp4",
+    "thumbnail": "thumbnails/Mod03_Sect03_part2.jpg"
+  },
+  "Mod03_Sect03_part3": {
+    "keywords": [
+      "correlation dataset",
+      "review correlation dataset",
+      "looking chart correlation",
+      "correlation dataset quantify",
+      "correlation matrix good",
+      "correlation use",
+      "chart correlation",
+      "correlation",
+      "plot correlation",
+      "correlation correlation"
+    ],
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod03_Sect03_part3.mp4",
+    "thumbnail": "thumbnails/Mod03_Sect03_part3.jpg"
+  },
+  "Mod03_Sect04_part1": {
+    "keywords": [
+      "feature engineering feature",
+      "feature engineering",
+      "look feature engineering",
+      "feature extraction build",
+      "engineering feature engineering",
+      "data handling needed",
+      "idea data handling",
+      "data categorical",
+      "yield new dataset",
+      "feature use"
+    ],
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod03_Sect04_part1.mp4",
+    "thumbnail": "thumbnails/Mod03_Sect04_part1.jpg"
+  },
+  "Mod03_Sect04_part2": {
+    "keywords": [
+      "datasets missing data",
+      "dataset missing data",
+      "missing data decide",
+      "dataset missing value",
+      "data variable datasets",
+      "missing value data",
+      "missing data data",
+      "data missing value",
+      "variable datasets",
+      "finding missing data"
+    ],
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod03_Sect04_part2.mp4",
+    "thumbnail": "thumbnails/Mod03_Sect04_part2.jpg"
+  },
+  "Mod03_Sect04_part3": {
+    "keywords": [
+      "know varied outlier",
+      "varied outlier box",
+      "approach dealing outlier",
+      "data based outlier",
+      "approach outlier",
+      "approach outlier caused",
+      "dealing outlier",
+      "good approach outlier",
+      "varied outlier",
+      "multiple varied outlier"
+    ],
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod03_Sect04_part3.mp4",
+    "thumbnail": "thumbnails/Mod03_Sect04_part3.jpg"
   },
   "Mod03_Sect05": {
     "keywords": [
@@ -623,85 +319,165 @@
     "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod03_Sect05.mp4",
     "thumbnail": "thumbnails/Mod03_Sect05.jpg"
   },
-  "Mod05_WrapUp_ver2": {
+  "Mod03_Sect06": {
     "keywords": [
-      "object detection amazon",
-      "computer vision amazon",
-      "amazon recognition perform",
-      "vision amazon manage",
-      "amazon recognition",
-      "detection amazon sage",
-      "video analysis list",
-      "vision amazon",
-      "main point module",
-      "recognition perform"
+      "deployment overhead sage",
+      "model deploy thats",
+      "prediction deploy model",
+      "instance deploy model",
+      "model deploy",
+      "model deployed production",
+      "sage maker deploy",
+      "deployed model need",
+      "deploy model amazon",
+      "ready deploy model"
     ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod05_WrapUp_ver2.mp4",
-    "thumbnail": "thumbnails/Mod05_WrapUp_ver2.jpg"
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod03_Sect06.mp4",
+    "thumbnail": "thumbnails/Mod03_Sect06.jpg"
   },
-  "Mod06_WrapUp": {
+  "Mod03_Sect07_part1": {
     "keywords": [
-      "time review module",
-      "review module",
-      "managed ml service",
-      "amazon ml service",
-      "review module wrap",
-      "managed amazon ml",
-      "described managed ml",
-      "ml service described",
-      "managed ml",
-      "service available lp"
+      "model success predicting",
+      "good outcome model",
+      "problem success metric",
+      "need assess model",
+      "success model metric",
+      "model success",
+      "outcome model similarly",
+      "youve trained model",
+      "outcome model",
+      "success predicting"
     ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod06_WrapUp.mp4",
-    "thumbnail": "thumbnails/Mod06_WrapUp.jpg"
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod03_Sect07_part1.mp4",
+    "thumbnail": "thumbnails/Mod03_Sect07_part1.jpg"
   },
-  "Mod05_Sect02_part2": {
+  "Mod03_Sect07_part2": {
     "keywords": [
-      "feature facial",
-      "face facial feature",
-      "recognition perform facial",
-      "facial feature facial",
-      "search face image",
-      "face matched information",
-      "operation search face",
-      "face use feature",
-      "use search face",
-      "search face collection"
+      "cat model choose",
+      "identified cat model",
+      "cat model work",
+      "cat metric model",
+      "cat possible model",
+      "percent cat identified",
+      "cat model",
+      "example percent cat",
+      "positive identification cat",
+      "identified cat calculate"
     ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod05_Sect02_part2.mp4",
-    "thumbnail": "thumbnails/Mod05_Sect02_part2.jpg"
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod03_Sect07_part2.mp4",
+    "thumbnail": "thumbnails/Mod03_Sect07_part2.jpg"
   },
-  "Mod03_Intro": {
+  "Mod03_Sect07_part3": {
     "keywords": [
-      "machine learning module",
-      "machine learning pipeline",
-      "learning pipeline using",
-      "learning pipeline applied",
-      "learning pipeline",
-      "create amazon sage",
+      "evaluate model classification",
+      "classification model going",
+      "model classification",
+      "model classification model",
+      "confusion major threshold",
+      "determine threshold use",
+      "classification model",
+      "classification metric determine",
+      "classification model identifies",
+      "model high sensitivity"
+    ],
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod03_Sect07_part3.mp4",
+    "thumbnail": "thumbnails/Mod03_Sect07_part3.jpg"
+  },
+  "Mod03_Sect08": {
+    "keywords": [
+      "hyper parameter tuning",
+      "data tuning hyper",
+      "process training tuning",
+      "training tuning",
+      "guideline create hyper",
+      "training tuning machine",
+      "perform automated hyper",
+      "tuning hyper",
+      "way tuning hyper",
+      "parameter tuning job"
+    ],
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod03_Sect08.mp4",
+    "thumbnail": "thumbnails/Mod03_Sect08.jpg"
+  },
+  "Mod03_WrapUp": {
+    "keywords": [
+      "knowledge check module",
       "using amazon sage",
       "use amazon sage",
       "amazon sage maker",
-      "amazon sage"
+      "time review module",
+      "create amazon sage",
+      "sage maker hyper",
+      "wrap knowledge check",
+      "check module learn",
+      "sage maker"
     ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod03_Intro.mp4",
-    "thumbnail": "thumbnails/Mod03_Intro.jpg"
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod03_WrapUp.mp4",
+    "thumbnail": "thumbnails/Mod03_WrapUp.jpg"
   },
-  "Mod02_Sect05": {
+  "Mod04_Intro": {
     "keywords": [
-      "machine learning business",
-      "service machine learning",
-      "machine learning add",
-      "challenge machine learning",
-      "solve machine learning",
-      "machine learning capability",
-      "learning challenge biggest",
-      "machine learning challenge",
-      "machine learning lot",
-      "using machine learning"
+      "amazon forecast challenge",
+      "forecast end module",
+      "machine learning module",
+      "forecast service help",
+      "amazon forecast service",
+      "forecasting start introduction",
+      "forecast service",
+      "use amazon forecast",
+      "forecast using amazon",
+      "start introduction forecasting"
     ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod02_Sect05.mp4",
-    "thumbnail": "thumbnails/Mod02_Sect05.jpg"
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod04_Intro.mp4",
+    "thumbnail": "thumbnails/Mod04_Intro.jpg"
+  },
+  "Mod04_Sect01": {
+    "keywords": [
+      "forecasting marketing application",
+      "forecasting use",
+      "forecasting use forecasting",
+      "forecasting important area",
+      "use forecasting",
+      "forecasting use case",
+      "use forecasting marketing",
+      "pattern forecasting use",
+      "forecasting important",
+      "forecasting used"
+    ],
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod04_Sect01.mp4",
+    "thumbnail": "thumbnails/Mod04_Sect01.jpg"
+  },
+  "Mod04_Sect02_part1": {
+    "keywords": [
+      "data help deal",
+      "work multiple data",
+      "data help decide",
+      "time series data",
+      "situation demand forecasting",
+      "example sale data",
+      "make prediction retail",
+      "retail dataset want",
+      "data work multiple",
+      "method dealing data"
+    ],
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod04_Sect02_part1.mp4",
+    "thumbnail": "thumbnails/Mod04_Sect02_part1.jpg"
+  },
+  "Mod04_Sect02_part2": {
+    "keywords": [
+      "series data seasonality",
+      "seasonality auto correlation",
+      "datasets seasonality",
+      "data seasonality data",
+      "data seasonality",
+      "seasonality dataset",
+      "seasonality data",
+      "trend time series",
+      "seasonality data kind",
+      "useful datasets seasonality"
+    ],
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod04_Sect02_part2.mp4",
+    "thumbnail": "thumbnails/Mod04_Sect02_part2.jpg"
   },
   "Mod04_Sect02_part3": {
     "keywords": [
@@ -719,20 +495,244 @@
     "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod04_Sect02_part3.mp4",
     "thumbnail": "thumbnails/Mod04_Sect02_part3.jpg"
   },
-  "Mod02_Sect03": {
+  "Mod04_WrapUp": {
     "keywords": [
-      "course example data",
-      "data train youll",
-      "machine learning pipeline",
-      "training data looking",
-      "performs training data",
-      "training data",
-      "use data train",
-      "problem data preparation",
-      "feature example data",
-      "learning pipeline process"
+      "solved amazon forecast",
+      "amazon forecast challenge",
+      "amazon forecast make",
+      "forecast challenge working",
+      "using amazon forecast",
+      "use amazon forecast",
+      "create forecast using",
+      "required create forecast",
+      "forecast using amazon",
+      "forecast challenge"
     ],
-    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod02_Sect03.mp4",
-    "thumbnail": "thumbnails/Mod02_Sect03.jpg"
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod04_WrapUp.mp4",
+    "thumbnail": "thumbnails/Mod04_WrapUp.jpg"
+  },
+  "Mod05_Intro": {
+    "keywords": [
+      "computer vision module",
+      "computer vision amazon",
+      "object detection amazon",
+      "vision module",
+      "machine learning module",
+      "vision module start",
+      "learning module",
+      "object detection end",
+      "learning module great",
+      "dataset object detection"
+    ],
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod05_Intro.mp4",
+    "thumbnail": "thumbnails/Mod05_Intro.jpg"
+  },
+  "Mod05_Sect01_ver2": {
+    "keywords": [
+      "vision machine",
+      "object detection provides",
+      "introduce computer vision",
+      "computer vision machine",
+      "computer vision improve",
+      "image classify",
+      "recognition improve",
+      "vision use image",
+      "include object classification",
+      "vision video data"
+    ],
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod05_Sect01_ver2.mp4",
+    "thumbnail": "thumbnails/Mod05_Sect01_ver2.jpg"
+  },
+  "Mod05_Sect02_part1_ver2": {
+    "keywords": [
+      "service amazon recognition",
+      "application amazon recognition",
+      "video amazon recognition",
+      "recognition sdk amazon",
+      "amazon recognition integrates",
+      "data amazon recognition",
+      "amazon recognition sdk",
+      "amazon recognition process",
+      "amazon recognition build",
+      "amazon recognition managed"
+    ],
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod05_Sect02_part1_ver2.mp4",
+    "thumbnail": "thumbnails/Mod05_Sect02_part1_ver2.jpg"
+  },
+  "Mod05_Sect02_part2": {
+    "keywords": [
+      "feature facial",
+      "face facial feature",
+      "recognition perform facial",
+      "facial feature facial",
+      "search face image",
+      "face matched information",
+      "operation search face",
+      "face use feature",
+      "use search face",
+      "search face collection"
+    ],
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod05_Sect02_part2.mp4",
+    "thumbnail": "thumbnails/Mod05_Sect02_part2.jpg"
+  },
+  "Mod05_Sect03_part1": {
+    "keywords": [
+      "amazon recognition trained",
+      "training image specific",
+      "training image service",
+      "provide training image",
+      "trained amazon recognition",
+      "train amazon recognition",
+      "image trained amazon",
+      "training image",
+      "training similar image",
+      "use classify image"
+    ],
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod05_Sect03_part1.mp4",
+    "thumbnail": "thumbnails/Mod05_Sect03_part1.jpg"
+  },
+  "Mod05_Sect03_part2": {
+    "keywords": [
+      "image dataset labeled",
+      "label image train",
+      "train amazon recognition",
+      "label image dataset",
+      "dataset labeled",
+      "information labeled image",
+      "model image labeled",
+      "dataset need labeling",
+      "dataset fully labeled",
+      "image train"
+    ],
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod05_Sect03_part2.mp4",
+    "thumbnail": "thumbnails/Mod05_Sect03_part2.jpg"
+  },
+  "Mod05_Sect03_part3": {
+    "keywords": [
+      "training dataset",
+      "training test datasets",
+      "information training dataset",
+      "model train dataset",
+      "training dataset create",
+      "data used training",
+      "train dataset",
+      "train training complete",
+      "training dataset datasets",
+      "training complete evaluate"
+    ],
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod05_Sect03_part3.mp4",
+    "thumbnail": "thumbnails/Mod05_Sect03_part3.jpg"
+  },
+  "Mod05_Sect03_part4_ver2": {
+    "keywords": [
+      "new training image",
+      "retrain model learn",
+      "use training image",
+      "training example detecting",
+      "training example like",
+      "training image",
+      "training image clearly",
+      "dog label training",
+      "model training",
+      "training image model"
+    ],
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod05_Sect03_part4_ver2.mp4",
+    "thumbnail": "thumbnails/Mod05_Sect03_part4_ver2.jpg"
+  },
+  "Mod05_WrapUp_ver2": {
+    "keywords": [
+      "object detection amazon",
+      "computer vision amazon",
+      "amazon recognition perform",
+      "vision amazon manage",
+      "amazon recognition",
+      "detection amazon sage",
+      "video analysis list",
+      "vision amazon",
+      "main point module",
+      "recognition perform"
+    ],
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod05_WrapUp_ver2.mp4",
+    "thumbnail": "thumbnails/Mod05_WrapUp_ver2.jpg"
+  },
+  "Mod06_Intro": {
+    "keywords": [
+      "language processing module",
+      "natural language",
+      "module academy machine",
+      "processing module introduce",
+      "introduction natural language",
+      "natural language processing",
+      "welcome module academy",
+      "language processing",
+      "introduce natural language",
+      "processing module"
+    ],
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod06_Intro.mp4",
+    "thumbnail": "thumbnails/Mod06_Intro.jpg"
+  },
+  "Mod06_Sect01": {
+    "keywords": [
+      "speech tagging classify",
+      "natural language processing",
+      "language processing known",
+      "classify phrase using",
+      "language processing",
+      "speech tagging",
+      "natural language talk",
+      "example speech text",
+      "classify phrase",
+      "speech language require"
+    ],
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod06_Sect01.mp4",
+    "thumbnail": "thumbnails/Mod06_Sect01.jpg"
+  },
+  "Mod06_Sect02": {
+    "keywords": [
+      "transcription service application",
+      "add transcription service",
+      "transcription service",
+      "transcribe recognize speech",
+      "amazon transcribe speak",
+      "output speech amazon",
+      "transcribe capture spoken",
+      "amazon transcribe use",
+      "application amazon transcribe",
+      "transcribe use amazon"
+    ],
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod06_Sect02.mp4",
+    "thumbnail": "thumbnails/Mod06_Sect02.jpg"
+  },
+  "Mod06_WrapUp": {
+    "keywords": [
+      "time review module",
+      "review module",
+      "managed ml service",
+      "amazon ml service",
+      "review module wrap",
+      "managed amazon ml",
+      "described managed ml",
+      "ml service described",
+      "managed ml",
+      "service available lp"
+    ],
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod06_WrapUp.mp4",
+    "thumbnail": "thumbnails/Mod06_WrapUp.jpg"
+  },
+  "Mod07_Sect01": {
+    "keywords": [
+      "certified machine learning",
+      "youll receive certification",
+      "certification help",
+      "certification help build",
+      "certification certification help",
+      "receive certification",
+      "prepare certification",
+      "covered certification exam",
+      "prepare certification exam",
+      "certification exam"
+    ],
+    "videoUrl": "https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACMNLP-1/video/Mod07_Sect01.mp4",
+    "thumbnail": "thumbnails/Mod07_Sect01.jpg"
   }
 }
