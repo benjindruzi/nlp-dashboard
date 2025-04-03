@@ -24,6 +24,9 @@ This is a lightweight app built for an Introduction to Machine Learning course. 
 
 ## Running the app
 
+- The app has been deployed at `https://nlp-dashboard.onrender.com`
+- However, if for some reason you cannot access it, follow the steps below
+
 ### Using Docker (Recommended)
 
 1. Build the image:
