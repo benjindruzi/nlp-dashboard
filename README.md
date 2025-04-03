@@ -47,7 +47,7 @@ This is a lightweight app built for an Introduction to Machine Learning course. 
 
 2. Start the development server:
 
-   `npm run dev`
+   `npm run dev -- --host=127.0.0.1 --port=3000` (Safer since you can specify any available port in your computer)
 
 3. Visit the resulting url in your browser
 
